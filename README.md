@@ -1,9 +1,14 @@
 # Hi, I’m @POeticPotatoes!
 I’ve worked extensively with Java and C# in building backend REST API's with Spring and Azure Functions. I've also worked on Angular in Typescript for several frontend projects.
 
-I began learning Java in 2019 by writing minecraft plugins with the Spigot library, and am currently a software engineering intern at SuccessIT where I'm building deploying and managing both backend and frontend services.
+I began learning Java in 2019 by writing minecraft plugins with the Spigot library, and am currently a software engineering intern at SuccessIT where I'm designing, building deploying and managing both backend and frontend services.
 
-I also plan to work on my Google Foobar this June (and post my solutions here).
+Most of my projects for my company have bee deployed on Azure Cloud with services including Composite Search, Static Web Apps, Azure Functions, App Services and more.
+
+Things I plan to work on (personal projects):
+- I recently installed Arch Linux and intend to post any config files for my setup (mainly qtile)
+- More minecraft plugins underway!
+- I'll work on my Google Foobar this June (and post my solutions here).
 
 Contact me at poeticpotatoes@gmail.com!
 
