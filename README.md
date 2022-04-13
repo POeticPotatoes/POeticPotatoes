@@ -1,7 +1,7 @@
 # Hi, I’m @POeticPotatoes!
 I'm a dude in Singapore (born in 2001)
 
-I’ve worked extensively with Java and C# in building backend REST API's with Spring and Azure Functions. I've also worked on Angular in Typescript for several frontend projects. Other languages I've used include Python, C++ and Javascript.
+I’ve worked extensively with Java and C# in building backend REST API's with Spring-based app services and Azure Functions. I've also worked on Angular in Typescript for several frontend projects. Other languages I've used include Python, C++ and Javascript.
 
 While I've been doing programming-related-work since 2011, I began using Java in 2019 by writing minecraft plugins with the Spigot library, and am currently a software engineering intern at SuccessIT where I'm designing, building deploying and managing both backend and frontend services. I'll be enrolling in Nanyang Technology in August 2022 :)
 
