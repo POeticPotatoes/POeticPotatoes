@@ -1,5 +1,5 @@
 # Hi, I’m @POeticPotatoes!
-I'm a dude in Singapore (born in 2001)
+My real name is Yang Iiyu, and I'm a dude in Singapore (born in 2001)
 
 I’ve worked extensively with Java and C# in building backend REST API's with Spring-based app services and Azure Functions. I've also worked on Angular in Typescript for several frontend projects. Other languages I've used include Python, C, C++ and Javascript.
 
