@@ -10,7 +10,8 @@ Projects I worked on for my company were deployed on Azure Cloud with services i
 Things I plan to work on (personal projects):
 - I recently installed Arch Linux and intend to post any config files for my setup
 - Working on an SQL management Library named Truffle
-- More minecraft plugins underway!
+- Learning C++ for competetive programming
+- Going through Operating Systems with Ostep
 - I'll work on my Google Foobar this June (and post my solutions here).
 
 Contact me at poeticpotatoes@gmail.com!
