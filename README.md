@@ -7,14 +7,7 @@ While I've been doing programming-related-work since 2011, I began using Java in
 
 Projects I worked on for my company were deployed on Azure Cloud with services including Composite Search, AzureSql, Static Web Apps, Azure Functions, App Services and more.
 
-Things I plan to work on (personal projects):
-- I recently installed Arch Linux and intend to post any config files for my setup
-- Working on an SQL management Library named Truffle
-- Learning C++ for competetive programming
-- Going through Operating Systems with Ostep
-- I'll work on my Google Foobar this June (and post my solutions here).
-
-Contact me at poeticpotatoes@gmail.com!
+Contact me at iiyuy2001@gmail.com!
 
 <!---
 POeticPotatoes/POeticPotatoes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
