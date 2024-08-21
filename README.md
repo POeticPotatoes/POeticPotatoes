@@ -1,9 +1,9 @@
 # Hi, I’m @POeticPotatoes!
 My real name is Yang Iiyu, and I'm a dude in Singapore (born in 2001).
 
-I'm currently enrolled in Nanyang Technological University and am studying for a bachelor's degree in Computer Science.
+I'm currently studying in the National University of Singapore (NUS) and am studying for a bachelor's degree in Computer Science. I was previously enrolled in Nanyang Technological University (NTU) until my transfer this year.
 
-I am currently training with NTU's competitive programming team to compete in the Inter-Collegiate Programming Competition held annualy, and use C++, Java and Python regularly during my practice. I previously achieved 12th place in the 2022 Asia-Manila regionals held in Manila on 15th December 2022.
+I have formerly trained with NTU's competitive programming team to compete in the Inter-Collegiate Programming Competition (ICPC), and I previously achieved 12th place in the 2022 Asia-Manila regionals held in Manila on 15th December 2022.
 
 I’ve worked extensively in the past with C# in building backend API's with Spring-based app services and Azure Functions. I've also worked on Angular in Typescript for several frontend projects. Other languages I've used include Python, C, and Javascript.
 
